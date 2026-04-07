@@ -13,7 +13,7 @@ Good analysis is more than writing queries or making charts. It starts with aski
 
 I’m especially interested in the part that often gets skipped: the thinking that happens before and between the code. That includes working through vague requests, messy data, and unclear definitions while still producing something useful and explainable.
 
-Projects are pinned below. Each repo includes documentation that explains the question being answered, not just the code.
+Projects are pinned below. Each repo includes documentation that explains the question being answered in addition to the code.
 
 ---
 
