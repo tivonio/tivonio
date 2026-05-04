@@ -2,16 +2,18 @@
 
 **Applied analytics and data science for business decisions**
 
-I use SQL and Python to turn real business questions into analysis that is clear, practical, and defensible.
+I use SQL, Python, and applied analytics to work through real business questions.
 
-My background is in market research, analytics, and business analysis, with earlier experience in finance and accounting. That mix shapes how I approach analytical work: define the question clearly, test the logic, validate the data, and make sure the result is something decision-makers can actually use.
+My background started in finance and accounting, which shaped how I approach analysis. I learned early that small details can make a big difference, so I tend to start with practical questions. What is being measured? Do the numbers line up? What assumptions are built in? And what do the results actually support?
+
+Over time, my work expanded into customer, operational, financial, and market data. The projects here show how I think through that work. I frame the question, structure the analysis, check the logic, and turn messy data into something clear enough to support a decision.
 
 ---
 
 ### How I think about analysis
 Good analysis is more than writing queries or making charts. It starts with asking the right question, making assumptions explicit, and checking whether the data really supports the claim.
 
-I’m especially interested in the part that often gets skipped: the thinking that happens before and between the code. That includes working through vague requests, messy data, and unclear definitions while still producing something useful and explainable.
+My projects show the full workflow. I include the business question, assumptions, validation checks, code, and final interpretation so the analysis is easier to follow and defend.
 
 Projects are pinned below. Each repo includes documentation that explains the question being answered in addition to the code.
 
