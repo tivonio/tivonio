@@ -2,24 +2,15 @@
 
 **Applied analytics and data science for business decisions**
 
-I use SQL, Python, and applied analytics to work through real business questions.
+I'm a data analyst with a background in finance and accounting. I use SQL, Python, and Power BI to analyze data, build analytical solutions, and help answer business questions.
 
-My background started in finance and accounting, which shaped how I approach analysis. I learned early that small details can make a big difference, so I tend to start with practical questions. What is being measured? Do the numbers line up? What assumptions are built in? And what do the results actually support?
+Over the course of my career, I've worked with financial, operational, customer, and market data across business analysis, business intelligence, and market research. The projects in this repository reflect that experience, applying analytics to realistic business problems through complete, end-to-end workflows.
 
-Over time, my work expanded into customer, operational, financial, and market data. The projects here show how I think through that work. I frame the question, structure the analysis, check the logic, and turn messy data into something clear enough to support a decision.
-
----
-
-### How I think about analysis
-Good analysis is more than writing queries or making charts. It starts with asking the right question, making assumptions explicit, and checking whether the data really supports the claim.
-
-My projects show the full workflow. I include the business question, assumptions, validation checks, code, and final interpretation so the analysis is easier to follow and defend.
-
-Projects are pinned below. Each repo includes documentation that explains the question being answered in addition to the code.
+Each repository includes documentation that explains the business question, methodology, analysis, and key findings.
 
 ---
 
 ### Elsewhere
-- [tivon.io](https://tivon.io)
-- [Medium](https://medium.com/@tivon.io)
-- [LinkedIn](https://www.linkedin.com/in/tivonjohnson/)
+- 🌐 Website: [https://tivon.io](https://tivon.io)
+- 💼 LinkedIn: [https://www.linkedin.com/in/tivonjohnson/](https://www.linkedin.com/in/tivonjohnson/)
+- ✍️ Medium: [https://medium.com/@tivon.io](https://medium.com/@tivon.io)
